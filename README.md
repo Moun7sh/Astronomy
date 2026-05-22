@@ -92,5 +92,3 @@ Because accuracy is a misleading metric for highly imbalanced data, this project
 - **Threshold Analysis:** Calibrating decision thresholds for specific operational constraints (e.g., allocating a fixed number of spectroscopic telescope fibers).
 - **Redshift Benchmarking:** Comparing the photometric-only pipeline against a model that has access to spectroscopic redshift.
 - **SHAP Explainability:** Analyzing the physical interpretation of feature importance (e.g., which color indices drive the model decisions).
-
-give discription for this 
